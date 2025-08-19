@@ -5,7 +5,8 @@ O projeto recria funcionalidades principais da rede social, explorando component
 
 🚀 Como Rodar o Projeto
 # Clone este repositório
-git clone https://github.com/seu-usuario/twitter-clone.git
+git clone https://github.com/herlessi/twitter-clone-em-react.git
+
 
 # Entre na pasta do projeto
 cd twitter-clone
